@@ -1,6 +1,6 @@
-Driven and inquisitive finance graduate from Santa Clara University’s Leavey School of Business. Currently working to expand my professional skill set through Columbia University’s FinTech Bootcamp. Upon completion, I am eager to enter the financial industries sector as a research or data analyst. 
+Driven and inquisitive finance graduate from Santa Clara University’s Leavey School of Business. Recently completed Columbia University’s FinTech Bootcamp. I am eager to enter the financial industries sector as a research or data analyst. 
 
-Through Columbia University’s FinTech Bootcamp, I am gaining experience using and applying Python and its many libraries to several financial applications including quantitative data analysis and visualization, machine learning and algorithmic trading. I have utilized the following Python libraries, and more, to complete weekly challenges over the course of the bootcamp:
+Through Columbia University’s FinTech Bootcamp, I gained experience using and applying Python and its many libraries to several financial applications including quantitative data analysis and visualization, machine learning and algorithmic trading. I have utilized the following Python libraries, and more, to complete weekly challenges over the course of the bootcamp:
 
      pandas
      NumPy
